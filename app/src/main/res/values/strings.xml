@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ท่องเที่ยวจังหวัดสุพรรณบุรี</string>
+
+
+    <string name="wat1_name">วัดป่าเรไร</string>
+    <string name="wat1_detail">\t\t\tวัดนี้เดิมพระเจ้าอู่ทอง..</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="history">\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t ประวัติจังหวัดสุพรรณบุรี\n \t\t\t ตราประจำจังหวัดสุพรรณบุรีเป็นรูปยุทธหัตถี
+        \t หมายถึง การกระทำยุทธหัตถีระหว่างสมเด็จพระนเรศวรมหาราช
+        กับพระมหาอุปราชาแห่งพม่า และบริเวณที่ทำยุทธหัตถีอยู่ในท้องที่อำเภอดอนเจดีย์ \n \n \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t คำขวัญประจำจังหวัด  \n \t\t\t\t\t\t\t\t เมืองยุทธหัตถี\t วรรณคดีขึ้นชื่อ\t เลื่องลือพระเครื่อง\t \n \t\t\t\t\t\t\t\t\t\t\t รุ่งเรืองเกษตรกรรม\t สูงล้ำประวัติศาสตร์ \n \t\t\t\t\t\t\t\t\t\t\t\t\t แหล่งปราชญ์ศิลปิน \t ภาษาถิ่นชวนฟัง \n  </string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "365562825758",
+    "firebase_url": "https://temple-f0afa.firebaseio.com",
+    "project_id": "temple-f0afa",
+    "storage_bucket": "temple-f0afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365562825758:android:92dc501bc7a35bf0",
+        "android_client_info": {
+          "package_name": "com.sdu.tample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365562825758-tgltb4q0klckrjblt5ik2rmo7ou3dkdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sdu.tample",
+            "certificate_hash": "42132aa90617a8a62d2e0df05cb3bcd1c8c3d725"
+          }
+        },
+        {
+          "client_id": "365562825758-52p60oud88k372gqgiucsqp836hr8qt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz3jxRHSVzu-TlZHkM78hzrXhEMXy0JPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365562825758-52p60oud88k372gqgiucsqp836hr8qt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
